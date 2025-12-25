@@ -1,4 +1,4 @@
-
+            
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗧𝗛𝗜𝗦+𝗜𝗦+𝙁𝘼𝘾𝙀𝙎𝙒𝘼𝙋+𝙒𝙀𝘽𝙎𝙄𝙏𝙀!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗦𝗬𝗡𝗔𝗫+𝗕𝗢𝗧𝗦™;𝗔+𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟𝗟+𝗧𝗚+𝗕𝗢𝗧!)</p>
 <p align="center">
 
@@ -44,7 +44,7 @@
 
 ## Credit 💞
 
-* [![SYNAX BOTS](https://img.shields.io/static/v1?label=SYNAX&message=BOTS&color=yellow)](https://t.me/synaxbots)
+* [![SYNAX BOTS](https://img.shields.io/static/v1?label=SYNAX&message=BOTS&color=yellow)](https://t.me/a4bhi)
 
 * [![SYNAX NETWORK](https://img.shields.io/static/v1?label=SYNAX&message=NETWORK&color=green)](https://t.me/synaxnetwork)
 
